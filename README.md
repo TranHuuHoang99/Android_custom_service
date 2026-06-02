@@ -10,11 +10,11 @@
    - create folders tree and files as the picture below
    <img width="552" height="302" alt="image" src="https://github.com/user-attachments/assets/e3275166-23e4-41a0-a9e0-071a53eb1d7d" />
 3. CONFIGURE Android.bp
-   <img width="714" height="1118" alt="image" src="https://github.com/user-attachments/assets/e5c16360-4a17-486e-8f6b-97575b0f54e4" />
+   - <img width="714" height="1118" alt="image" src="https://github.com/user-attachments/assets/e5c16360-4a17-486e-8f6b-97575b0f54e4" />
    - filegroup use for define a name that point to *.aidl files that we created above and so on for *.cpp files
    - cc_library_static is the name we are going to use to generate Header file from AIDL (as static library in cpp)
 4. CONFIGURE IHelloWorld.aidl
-   <img width="525" height="173" alt="image" src="https://github.com/user-attachments/assets/773f957b-7557-4659-8a52-aa3a0bc81bfe" />
+   - <img width="525" height="173" alt="image" src="https://github.com/user-attachments/assets/773f957b-7557-4659-8a52-aa3a0bc81bfe" />
    - we pack our service to package name vendor.helloworld.service (should be named follow up to folder tree you created above)
    - <img width="226" height="33" alt="image" src="https://github.com/user-attachments/assets/1b124a10-c45f-4874-8bb8-c724476a65a9" />
    - syntax of aidl file is similar to JAVA
