@@ -90,6 +90,11 @@
    - <img width="594" height="379" alt="image" src="https://github.com/user-attachments/assets/fd6b3aad-c83a-4686-82aa-456d74c72ee3" />
 12. END => RUN COMMAND BUILD AGAIN AND YOU'RE READY TO GO
 
+NOTICE:
+We could configure hello_world.rc like so
+<img width="897" height="529" alt="image" src="https://github.com/user-attachments/assets/7eee0e0b-ff57-4558-8b69-d5e2c51f0512" />
+
+
 
 
 
